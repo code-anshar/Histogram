@@ -1,4 +1,4 @@
-# Histogram
+//# Histogram
 //Source code from stackoverflow.com
 //Edit and modified by : anshar iriansyah, for "Pengolahan Citra" in Engineering Faculty of Sultan Hasanuddin
 
